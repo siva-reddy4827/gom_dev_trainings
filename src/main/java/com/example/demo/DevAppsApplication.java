@@ -15,7 +15,7 @@ public class DevAppsApplication {
 		System.out.println("adding a line in featurebranch");
 		System.out.println("rebasing in main");
 		System.out.println("MAIN");
-	
+	    System.out.println("testing");
 
 	}
 
