@@ -8,6 +8,7 @@ public class DevAppsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevAppsApplication.class, args);
+		System.out.println("adding a line");
 	}
 
 }
