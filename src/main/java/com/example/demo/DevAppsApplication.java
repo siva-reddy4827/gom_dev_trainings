@@ -11,6 +11,7 @@ public class DevAppsApplication {
 		System.out.println("adding a line");
         System.out.println("secondline");
         System.out.println("adding a line in featurebranch");
+
         System.out.println("rebasing in main");
         System.out.println("Rebasing ontop of mainbranch");
 	}
